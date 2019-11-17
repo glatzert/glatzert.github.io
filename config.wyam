@@ -1,0 +1,8 @@
+#recipe Blog
+
+// Customize your settings and add new ones here
+Settings[Keys.Host] = "glatzert.github.io";
+Settings[BlogKeys.Title] = "TGlatzer's Blog";
+Settings[BlogKeys.Description] = "Welcome!";
+
+// Add any pipeline customizations here
