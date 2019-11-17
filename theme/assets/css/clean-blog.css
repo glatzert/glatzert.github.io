@@ -1,8 +1,9 @@
 body {
-  font-family: 'Lora', 'Times New Roman', serif;
-  font-size: 20px;
+  /* font-family: 'Lora', 'Times New Roman', serif; 
+  font-size: 20px; */
   color: #333333;
 }
+/*
 p {
   line-height: 1.5;
   margin: 30px 0;
@@ -90,7 +91,7 @@ hr.small {
     -webkit-transition: background-color 0.3s;
     -moz-transition: background-color 0.3s;
     transition: background-color 0.3s;
-    /* Force Hardware Acceleration in WebKit */
+    /* Force Hardware Acceleration in WebKit /
     -webkit-transform: translate3d(0, 0, 0);
     -moz-transform: translate3d(0, 0, 0);
     -ms-transform: translate3d(0, 0, 0);
@@ -100,7 +101,7 @@ hr.small {
     backface-visibility: hidden;
   }
   .navbar-custom.is-fixed {
-    /* when the user scrolls down, we hide the header right above the viewport */
+    /* when the user scrolls down, we hide the header right above the viewport /
     position: fixed;
     top: -61px;
     background-color: rgba(255, 255, 255, 0.9);
@@ -124,7 +125,7 @@ hr.small {
     color: #337ab7;
   }
   .navbar-custom.is-visible {
-    /* if the user changes the scrolling direction, we show the header */
+    /* if the user changes the scrolling direction, we show the header /
     -webkit-transform: translate3d(0, 100%, 0);
     -moz-transform: translate3d(0, 100%, 0);
     -ms-transform: translate3d(0, 100%, 0);

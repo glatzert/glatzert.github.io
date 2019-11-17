@@ -1,6 +1,11 @@
 #intro-header {
   background-color: #555555;
+  background-image: url(/assets/images/header_1200x600.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
 }
+
+/*
 .intro-header .site-heading .subheading {
   line-height: 1.6;
 }
@@ -167,3 +172,4 @@ code {
     float: none;
   }
 }
+*/
