@@ -1,0 +1,17 @@
+.navbar-brand-img {
+    --navbar-img-size: 40px;
+
+    max-height: var(--navbar-img-size);
+    max-width: var(--navbar-img-size);
+
+    border-radius: 12.5%;
+}
+
+.myself-img {
+    text-align: center;
+
+    max-width: 200px;
+    max-height: 200px;
+
+    border-radius: 12.5%;
+}

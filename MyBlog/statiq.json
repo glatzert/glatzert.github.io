@@ -1,3 +1,5 @@
 {
-    "OutputPath": "../../master"
+    "Host": "glatzert.github.io",
+    "LinksUseHttps": "true",
+    
 }
